@@ -1,6 +1,6 @@
 작성자: @github_nickname
 
-Related to #{이슈 번호 기입}
+close/resolve/fix #{이슈 번호 기입}
 
 ## 체크 리스트
 
